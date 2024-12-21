@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Marinated products «MFT»",
+    "code": "17471-93",
+    "weight": "Net weight: 0,5 L",
+    "image": "../products/баклажан-с-перцем.jpg",
+    "manufactured": "Manufactured: «Maks Food Technology» Turkmenistan"
+  },
+  {
+    "name": "Natural juices «MFT»",
+    "code": "TS 02241618-01-2017",
+    "weight": "Net weight: 1 L, 0,5 L, 0,25 L",
+    "image": "../products/гранат.jpg",
+    "manufactured": "Manufactured: «Maks Food Technology» Turkmenistan"
+  },
+  {
+    "name": "Crackers «Tizli» with a taste of sour cream and onions",
+    "code": "TS 02241618-01-2017",
+    "weight": "Net weight: 40 g",
+    "image": "../products/Screenshot_4-1.png",
+    "manufactured": "Manufactured: Turkmenistan",
+    "energy": "Energy value: 354.0 Kcal"
+  },
+  {
+    "name": "Crackers «Tizli» with a taste of cheese",
+    "code": "TS 02241618-01-2017",
+    "weight": "Net weight: 40 g",
+    "image": "../products/Screenshot_1.png",
+    "manufactured": "Manufactured: Turkmenistan",
+    "energy": "Energy value: 354.0 Kcal"
+  },
+  {
+    "name": "Crackers «Tizli» with a taste of salami",
+    "code": "TS 02241618-01-2017",
+    "weight": "Net weight: 40 g",
+    "image": "../products/Screenshot_2.png",
+    "manufactured": "Manufactured: Turkmenistan",
+    "energy": "Energy value: 354.0 Kcal"
+  },
+  {
+    "name": "Crackers «Tizli» with tomato and greens taste",
+    "code": "TS 02241618-01-2017",
+    "weight": "Net weight: 40 g",
+    "image": "../products/Screenshot_3-1.png",
+    "manufactured": "Manufactured: Turkmenistan",
+    "energy": "Energy value: 354.0 Kcal"
+  },
+  {
+    "name": "Stew «Düýe etinden batyrma»",
+    "code": "TDS-9937-79",
+    "weight": "Net weight: 0,350 kg",
+    "image": "../products/tushenka-1-1.jpg",
+    "manufactured": "Manufactured: OJSC«Merw» Turkmenistan"
+  },
+  {
+    "name": "Stew «Ak çorbaly goýun eti»",
+    "code": "TDS-9937-79",
+    "weight": "Net weight: 0,250kg, 0,350kg, 0,550kg",
+    "image": "../products/tushenka-3.jpg",
+    "manufactured": "Manufactured: OJSC«Merw» Turkmenistan"
+  },
+  {
+    "name": "Stew «Ak çorbaly sygyr eti»",
+    "code": "TDS-9937-79",
+    "weight": "Net weight: 0,250kg, 0,350kg, 0,550kg",
+    "image": "../products/tushenka-2-1.jpg",
+    "manufactured": "Manufactured: OJSC«Merw» Turkmenistan"
+  },
+  {
+    "name": "Iodized salt",
+    "code": "Iodized salt",
+    "weight": "Filtration on pure cotton fiber",
+    "image": "../products/CASPI-SALT-POSTER-A3-1.jpg",
+    "manufactured": "Heat treatment 120 C"
+  },
+  {
+    "name": "Iodized salt 750 g",
+    "code": "Iodized salt",
+    "weight": "Filtration on pure cotton fiber",
+    "image": "../products/750-гр.jpg",
+    "manufactured": "Heat treatment 120 C"
+  },
+  {
+    "name": "Pasta «Granum» 15 kg",
+    "code": "GOST R 52189-2003",
+    "weight": "Grade: Extra",
+    "image": "../products/pasta-granum.jpg",
+    "manufactured": "Packaging: 15 kg, 20 kg."
+  },
+  {
+    "name": "Pasta «Granum»",
+    "code": "GOST R 52189-2003",
+    "weight": "Grade: Extra",
+    "image": "../products/prod1.png",
+    "manufactured": "Packaging: 0.400 kg, 0.900 kg, 2 kg, 5 kg",
+    "expiry": "Expiry date 12 months"
+  },
+  {
+    "name": "Flour «Granum»",
+    "code": "ST RK GOST R51865-2010",
+    "weight": "Grade: higher",
+    "image": "../products/prod2.png",
+    "manufactured": "Packaging: 1 kg, 2 kg",
+    "expiry": "Expiry date 12 months"
+  },
+  {
+    "name": "Oil «Sunny Gold»",
+    "code": "1 L",
+    "weight": "Net weight: 14.55 kg",
+    "image": "../products/prod3.png",
+    "manufactured": "Pack quantity: 15 pcs",
+    "expiry": "Expiry date 12 months"
+  },
+  {
+    "name": "Milk «Selyanskoe»",
+    "code": "0.95 L",
+    "weight": "Net weight: 11.4 kg",
+    "image": "../products/prod-5.png",
+    "manufactured": "Pack quantity: 12 pcs",
+    "expiry": "Expiry date 270 days at a temperature of 1.25 ° C"
+  },
+  {
+    "name": "Milk «Na zdorov’ye»",
+    "code": "1 L",
+    "weight": "Net weight: 11.4 kg",
+    "image": "../products/prod-6.png",
+    "manufactured": "Pack quantity: 12 pcs",
+    "expiry": "Expiry date 270 days at a temperature of 1.25 ° C"
+  },
+  {
+    "name": "Milk «Bourionka»",
+    "code": "1 L",
+    "weight": "Net weight: 12 kg",
+    "image": "../products/prod-7.png",
+    "manufactured": "Pack quantity: 12 pcs",
+    "expiry": "Expiry date 180 days at a temperature of 1.25 ° C"
+  },
+  {
+    "name": "Cream «Burionka»",
+    "code": "0.5 L",
+    "weight": "Net weight: 9 kg",
+    "image": "../products/prod-8.png",
+    "manufactured": "Pack quantity: 18 pcs",
+    "expiry": "Expiry date 180 days at a temperature of 1.25 ° C"
+  }
+]

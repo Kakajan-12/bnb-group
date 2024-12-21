@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Маринованные продукты «МФТ»",
+    "code": "17471-93",
+    "weight": "Вес нетто: 0,5 L",
+    "image": "../products/баклажан-с-перцем.jpg",
+    "manufactured": "Изготовитель: «Макс Фуд Технолоджи» Туркменистан"
+  },
+  {
+    "name": "Натуральные соки «МФТ»",
+    "code": "TS 02241618-01-2017",
+    "weight": "Вес нетто: 1 L, 0,5 L, 0,25 L",
+    "image": "../products/гранат.jpg",
+    "manufactured": "Изготовитель: «Макс Фуд Технолоджи» Туркменистан"
+  },
+  {
+    "name": "Сухарики «Tizli» со вкусом сметаны и лука",
+    "code": "TS 02241618-01-2017",
+    "weight": "Вес нетто: 40 г",
+    "image": "../products/Screenshot_4-1.png",
+    "manufactured": "Произведено: Туркменистан",
+    "energy": "Энергетическая ценность: 354,0 Ккал"
+  },
+  {
+    "name": "Крекеры «Tizli» со вкусом сыра",
+    "code": "TS 02241618-01-2017",
+    "weight": "Вес нетто: 40 г",
+    "image": "../products/Screenshot_1.png",
+    "manufactured": "Произведено: Туркменистан",
+    "energy": "Energy value: 354.0 Kcal"
+  },
+  {
+    "name": "Крекеры «Tizli» со вкусом салями",
+    "code": "TS 02241618-01-2017",
+    "weight": "Вес нетто: 40 г",
+    "image": "../products/Screenshot_2.png",
+    "manufactured": "Произведено: Туркменистан",
+    "energy": "Энергетическая ценность: 354,0 Ккал"
+  },
+  {
+    "name": "Крекеры «Tizli» со вкусом томата и зелени",
+    "code": "TS 02241618-01-2017",
+    "weight": "Net weight: 40 г",
+    "image": "../products/Screenshot_3-1.png",
+    "manufactured": "Manufactured: Turkmenistan",
+    "energy": "Energy value: 354.0 Kcal"
+  },
+  {
+    "name": "Тушеный «Düýe etinden batyrma»",
+    "code": "TDS-9937-79",
+    "weight": "Вес нетто: 0,350 кг",
+    "image": "../products/tushenka-1-1.jpg",
+    "manufactured": "Изготовитель: ОАО «Мерв» Туркменистан"
+  },
+  {
+    "name": "Тушеный «Ak çorbaly goýun eti»",
+    "code": "TDS-9937-79",
+    "weight": "Масса нетто: 0,250 кг, 0,350 кг, 0,550 кг",
+    "image": "../products/tushenka-3.jpg",
+    "manufactured": "Изготовитель: ОАО «Мерв» Туркменистан"
+  },
+  {
+    "name": "Тушеный «Ak çorbaly sygyr eti»",
+    "code": "TDS-9937-79",
+    "weight": "Масса нетто: 0,250 кг, 0,350 кг, 0,550 кг",
+    "image": "../products/tushenka-2-1.jpg",
+    "manufactured": "Изготовитель: ОАО «Мерв» Туркменистан"
+  },
+  {
+    "name": "Йодированная соль",
+    "code": "Йодированная соль",
+    "weight": "Фильтрация на чистом хлопковом волокне",
+    "image": "../products/CASPI-SALT-POSTER-A3-1.jpg",
+    "manufactured": "Термическая обработка 120 С"
+  },
+  {
+    "name": "Соль йодированная 750 г",
+    "code": "Йодированная соль",
+    "weight": "Фильтрация на чистом хлопковом волокне",
+    "image": "../products/750-гр.jpg",
+    "manufactured": "Термическая обработка 120 С"
+  },
+  {
+    "name": "Паста Гранум 15 кг",
+    "code": "GOST R 52189-2003",
+    "weight": "Оценка: Экстра",
+    "image": "../products/pasta-granum.jpg",
+    "manufactured": "Упаковка: 15 кг, 20 кг."
+  },
+  {
+    "name": "Макароны \"Зерно\"",
+    "code": "GOST R 52189-2003",
+    "weight": "Оценка: Экстра",
+    "image": "../products/prod1.png",
+    "manufactured": "Упаковка: 0,400 кг, 0,900 кг, 2 кг, 5 кг",
+    "expiry": "Срок годности 12 месяцев"
+  },
+  {
+    "name": "Мука «Гранум»",
+    "code": "ST RK GOST R51865-2010",
+    "weight": "Оценка: высшая",
+    "image": "../products/prod2.png",
+    "manufactured": "Упаковка: 1 кг, 2 кг",
+    "expiry": "Срок годности 12 месяцев"
+  },
+  {
+    "name": "Масло «Солнечное золото»",
+    "code": "1 L",
+    "weight": "Вес нетто: 14.55 кг",
+    "image": "../products/prod3.png",
+    "manufactured": "Количество в упаковке: 15 шт.",
+    "expiry": "Срок годности 12 месяцев"
+  },
+  {
+    "name": "Молоко «Селянское»",
+    "code": "0.95 L",
+    "weight": "Вес нетто: 11.4 кг",
+    "image": "../products/prod-5.png",
+    "manufactured": "Количество в упаковке: 12 шт.",
+    "expiry": "Срок годности 270 суток при температуре 1,25 °С."
+  },
+  {
+    "name": "Milk «На здоровье»",
+    "code": "1 L",
+    "weight": "Вес нетто: 11.4 кг",
+    "image": "../products/prod-6.png",
+    "manufactured": "Количество в упаковке: 12 шт.",
+    "expiry": "Срок годности 270 суток при температуре 1,25 °С."
+  },
+  {
+    "name": "Молоко «Бурёнка»",
+    "code": "1 L",
+    "weight": "Вес нетто: 12 кг",
+    "image": "../products/prod-7.png",
+    "manufactured": "Количество в упаковке: 12 шт.",
+    "expiry": "Срок годности 180 суток при температуре 1,25 °С."
+  },
+  {
+    "name": "Крем «Бурионка»",
+    "code": "0.5 L",
+    "weight": "Вес нетто: 9 кг",
+    "image": "../products/prod-8.png",
+    "manufactured": "Количество в упаковке: 18 шт.",
+    "expiry": "Срок годности 180 суток при температуре 1,25 °С."
+  }
+]

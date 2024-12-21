@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Marinirlenen önümler \"MFT\"",
+    "code": "17471-93",
+    "weight": "Arassa agramy: 0,5 L",
+    "image": "../products/баклажан-с-перцем.jpg",
+    "manufactured": "Öndüriji: «Azyk tehnologiýa» Türkmenistan"
+  },
+  {
+    "name": "Tebigy şireler «MFT»",
+    "code": "TS 02241618-01-2017",
+    "weight": "Arassa agramy: 1 L, 0,5 L, 0,25 L",
+    "image": "../products/гранат.jpg",
+    "manufactured": "Öndüriji: «Azyk tehnologiýa» Türkmenistan"
+  },
+  {
+    "name": "Sogan we sogan tagamly “Tizli” krakerler",
+    "code": "TS 02241618-01-2017",
+    "weight": "Arassa agramy: 40 g",
+    "image": "../products/Screenshot_4-1.png",
+    "manufactured": "Öndüriji: Türkmenistan",
+    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+  },
+  {
+    "name": "Peýnir tagamly “Tizli” krakerleri",
+    "code": "TS 02241618-01-2017",
+    "weight": "Arassa agramy: 40 g",
+    "image": "../products/Screenshot_1.png",
+    "manufactured": "Öndüriji: Türkmenistan",
+    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+  },
+  {
+    "name": "Salýami tagamly “Tizli” krakerleri",
+    "code": "TS 02241618-01-2017",
+    "weight": "Arassa agramy: 40 g",
+    "image": "../products/Screenshot_2.png",
+    "manufactured": "Öndüriji: Türkmenistan",
+    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+  },
+  {
+    "name": "Pomidor we gök tagamly “Tizli” krakerleri",
+    "code": "TS 02241618-01-2017",
+    "weight": "Arassa agramy: 40 g",
+    "image": "../products/Screenshot_3-1.png",
+    "manufactured": "Öndüriji: Türkmenistan",
+    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+  },
+  {
+    "name": "Buglanan «Düýe etinden batyrma»",
+    "code": "TDS-9937-79",
+    "weight": "Arassa agramy: 0,350 kg",
+    "image": "../products/tushenka-1-1.jpg",
+    "manufactured": "Öndüriji: AGPJ «Merw» Türkmenistan"
+  },
+  {
+    "name": "Buglanan «Ak çorbaly goýun eti»",
+    "code": "TDS-9937-79",
+    "weight": "Arassa agramy: 0,250kg, 0,350kg, 0,550kg",
+    "image": "../products/tushenka-3.jpg",
+    "manufactured": "Öndüriji: AGPJ «Merw» Türkmenistan"
+  },
+  {
+    "name": "Buglanan «Ak çorbaly sygyr eti»",
+    "code": "TDS-9937-79",
+    "weight": "Arassa agramy: 0,250kg, 0,350kg, 0,550kg",
+    "image": "../products/tushenka-2-1.jpg",
+    "manufactured": "Öndüriji: AGPJ «Merw» Türkmenistan"
+  },
+  {
+    "name": "Ýodlanan duz",
+    "code": "Ýodlanan duz",
+    "weight": "Arassa pagta süýümine süzlen",
+    "image": "../products/CASPI-SALT-POSTER-A3-1.jpg",
+    "manufactured": "Atylylyk bejergisi 120 C"
+  },
+  {
+    "name": "Ýodlanan duz 750 g",
+    "code": "Ýodlanan duz",
+    "weight": "Arassa pagta süýümine süzlen",
+    "image": "../products/750-гр.jpg",
+    "manufactured": "Atylylyk bejergisi 120 C"
+  },
+  {
+    "name": "«Granum» pastasy 15 kg",
+    "code": "GOST R 52189-2003",
+    "weight": "Baha: Goşmaça",
+    "image": "../products/pasta-granum.jpg",
+    "manufactured": "Gapda: 15 kg, 20 kg."
+  },
+  {
+    "name": "«Granum» pastasy",
+    "code": "GOST R 52189-2003",
+    "weight": "Baha: Goşmaça",
+    "image": "../products/prod1.png",
+    "manufactured": "Gapda: 0.400 kg, 0.900 kg, 2 kg, 5 kg",
+    "expiry": "Möhleti 12 aý"
+  },
+  {
+    "name": "«Granum» Un",
+    "code": "ST RK GOST R51865-2010",
+    "weight": "Baha: Ýokary",
+    "image": "../products/prod2.png",
+    "manufactured": "Gapda: 1 kg, 2 kg",
+    "expiry": "Möhleti 12 aý"
+  },
+  {
+    "name": "«Sunny Gold» ýagy",
+    "code": "1 L",
+    "weight": "Arassa agramy: 14.55 kg",
+    "image": "../products/prod3.png",
+    "manufactured": "Mukdary: 15 sany",
+    "expiry": "Möhleti 12 aý"
+  },
+  {
+    "name": "«Selyanskoe» süýdi",
+    "code": "0.95 L",
+    "weight": "Arassa agramy: 11.4 kg",
+    "image": "../products/prod-5.png",
+    "manufactured": "Mukdary: 12 sany",
+    "expiry": "Möhleti 1,25 °C temperaturada 270 gün"
+  },
+  {
+    "name": "«Na zdorov’ye» süýdi",
+    "code": "1 L",
+    "weight": "Arassa agramy: 11.4 kg",
+    "image": "../products/prod-6.png",
+    "manufactured": "Mukdary: 12 sany",
+    "expiry": "Möhleti 1,25 °C temperaturada 270 gün"
+  },
+  {
+    "name": "«Bourionka» süýdi",
+    "code": "1 L",
+    "weight": "Arassa agramy: 12 kg",
+    "image": "../products/prod-7.png",
+    "manufactured": "Mukdary: 12 sany",
+    "expiry": "Möhleti 1,25 °C temperaturada 180 gün"
+  },
+  {
+    "name": "“Burionka” krem",
+    "code": "0.5 L",
+    "weight": "Arassa agramy: 9 kg",
+    "image": "../products/prod-8.png",
+    "manufactured": "Mukdary: 18 sany",
+    "expiry": "Möhleti 1,25 °C temperaturada 180 gün"
+  }
+]
