@@ -1,146 +1,952 @@
 [
   {
-    "name": "Marinirlenen önümler \"MFT\"",
-    "code": "17471-93",
-    "weight": "Arassa agramy: 0,5 L",
-    "image": "../products/баклажан-с-перцем.jpg",
-    "manufactured": "Öndüriji: «Azyk tehnologiýa» Türkmenistan"
+    "name": "Amaretto siropy 0,375 ml çüýşede",
+    "image": "../products/barline/1.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Tebigy şireler «MFT»",
-    "code": "TS 02241618-01-2017",
-    "weight": "Arassa agramy: 1 L, 0,5 L, 0,25 L",
-    "image": "../products/гранат.jpg",
-    "manufactured": "Öndüriji: «Azyk tehnologiýa» Türkmenistan"
+    "name": "Amaretto siropy 1 l çüýşede",
+    "image": "../products/barline/2.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Sogan we sogan tagamly “Tizli” krakerler",
-    "code": "TS 02241618-01-2017",
-    "weight": "Arassa agramy: 40 g",
-    "image": "../products/Screenshot_4-1.png",
-    "manufactured": "Öndüriji: Türkmenistan",
-    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+    "name": "Amaretto siropy 1.0 PET",
+    "image": "../products/barline/3.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Peýnir tagamly “Tizli” krakerleri",
-    "code": "TS 02241618-01-2017",
-    "weight": "Arassa agramy: 40 g",
-    "image": "../products/Screenshot_1.png",
-    "manufactured": "Öndüriji: Türkmenistan",
-    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+    "name": "Apelsin siropy 1 l PET MOM resepti",
+    "image": "../products/barline/4.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Salýami tagamly “Tizli” krakerleri",
-    "code": "TS 02241618-01-2017",
-    "weight": "Arassa agramy: 40 g",
-    "image": "../products/Screenshot_2.png",
-    "manufactured": "Öndüriji: Türkmenistan",
-    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+    "name": "Arahis siropy 1 l PET",
+    "image": "../products/barline/5.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Pomidor we gök tagamly “Tizli” krakerleri",
-    "code": "TS 02241618-01-2017",
-    "weight": "Arassa agramy: 40 g",
-    "image": "../products/Screenshot_3-1.png",
-    "manufactured": "Öndüriji: Türkmenistan",
-    "energy": "Iýmitlilik gymmaty: 354.0 Kkal"
+    "name": "Arahis siropy 0,375 ml çüýşede",
+    "image": "../products/barline/6.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Buglanan «Düýe etinden batyrma»",
-    "code": "TDS-9937-79",
-    "weight": "Arassa agramy: 0,350 kg",
-    "image": "../products/tushenka-1-1.jpg",
-    "manufactured": "Öndüriji: AGPJ «Merw» Türkmenistan"
+    "name": "Arahis siropy 1 l çüýşede",
+    "image": "../products/barline/7.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Buglanan «Ak çorbaly goýun eti»",
-    "code": "TDS-9937-79",
-    "weight": "Arassa agramy: 0,250kg, 0,350kg, 0,550kg",
-    "image": "../products/tushenka-3.jpg",
-    "manufactured": "Öndüriji: AGPJ «Merw» Türkmenistan"
+    "name": "Sakgyç siropy 1 l PET MOM resepti",
+    "image": "../products/barline/8.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Buglanan «Ak çorbaly sygyr eti»",
-    "code": "TDS-9937-79",
-    "weight": "Arassa agramy: 0,250kg, 0,350kg, 0,550kg",
-    "image": "../products/tushenka-2-1.jpg",
-    "manufactured": "Öndüriji: AGPJ «Merw» Türkmenistan"
+    "name": "Banan sary siropy 1 l PET MOM resepti",
+    "image": "../products/barline/9.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Ýodlanan duz",
-    "code": "Ýodlanan duz",
-    "weight": "Arassa pagta süýümine süzlen",
-    "image": "../products/CASPI-SALT-POSTER-A3-1.jpg",
-    "manufactured": "Atylylyk bejergisi 120 C"
+    "name": "Baileys siropy 1 l PET",
+    "image": "../products/barline/10.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Ýodlanan duz 750 g",
-    "code": "Ýodlanan duz",
-    "weight": "Arassa pagta süýümine süzlen",
-    "image": "../products/750-гр.jpg",
-    "manufactured": "Atylylyk bejergisi 120 C"
+    "name": "Baileys siropy 1 l çüýşede",
+    "image": "../products/barline/11.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Granum» pastasy 15 kg",
-    "code": "GOST R 52189-2003",
-    "weight": "Baha: Goşmaça",
-    "image": "../products/pasta-granum.jpg",
-    "manufactured": "Gapda: 15 kg, 20 kg."
+    "name": "Ak şokolad siropy 0,375 ml çüýşede",
+    "image": "../products/barline/12.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Granum» pastasy",
-    "code": "GOST R 52189-2003",
-    "weight": "Baha: Goşmaça",
-    "image": "../products/prod1.png",
-    "manufactured": "Gapda: 0.400 kg, 0.900 kg, 2 kg, 5 kg",
-    "expiry": "Möhleti 12 aý"
+    "name": "Browni siropy 1 l çüýşede",
+    "image": "../products/barline/13.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Granum» Un",
-    "code": "ST RK GOST R51865-2010",
-    "weight": "Baha: Ýokary",
-    "image": "../products/prod2.png",
-    "manufactured": "Gapda: 1 kg, 2 kg",
-    "expiry": "Möhleti 12 aý"
+    "name": "Browni siropy 1,0 PET",
+    "image": "../products/barline/14.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Sunny Gold» ýagy",
-    "code": "1 L",
-    "weight": "Arassa agramy: 14.55 kg",
-    "image": "../products/prod3.png",
-    "manufactured": "Mukdary: 15 sany",
-    "expiry": "Möhleti 12 aý"
+    "name": "Wanil siropy 0,375 ml çüýşede",
+    "image": "../products/barline/15.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Selyanskoe» süýdi",
-    "code": "0.95 L",
-    "weight": "Arassa agramy: 11.4 kg",
-    "image": "../products/prod-5.png",
-    "manufactured": "Mukdary: 12 sany",
-    "expiry": "Möhleti 1,25 °C temperaturada 270 gün"
+    "name": "Wanil siropy 1 l PET",
+    "image": "../products/barline/16.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Na zdorov’ye» süýdi",
-    "code": "1 L",
-    "weight": "Arassa agramy: 11.4 kg",
-    "image": "../products/prod-6.png",
-    "manufactured": "Mukdary: 12 sany",
-    "expiry": "Möhleti 1,25 °C temperaturada 270 gün"
+    "name": "Wanil siropy 1 l PET MOM resepti",
+    "image": "../products/barline/17.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "«Bourionka» süýdi",
-    "code": "1 L",
-    "weight": "Arassa agramy: 12 kg",
-    "image": "../products/prod-7.png",
-    "manufactured": "Mukdary: 12 sany",
-    "expiry": "Möhleti 1,25 °C temperaturada 180 gün"
+    "name": "Wanil siropy 1 l çüýşede",
+    "image": "../products/barline/18.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "“Burionka” krem",
-    "code": "0.5 L",
-    "weight": "Arassa agramy: 9 kg",
-    "image": "../products/prod-8.png",
-    "manufactured": "Mukdary: 18 sany",
-    "expiry": "Möhleti 1,25 °C temperaturada 180 gün"
+    "name": "Karnasiýa siropy 0,375 ml çüýşede",
+    "image": "../products/barline/19.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karnasiýa siropy 1 l PET",
+    "image": "../products/barline/20.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karnasiýa siropy 1 l çüýşede",
+    "image": "../products/barline/21.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Armut siropy 1 l PET MOM resepti",
+    "image": "../products/barline/22.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Jasmin siropy 1 l PET",
+    "image": "../products/barline/23.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir prýanik siropy 0,375 ml çüýşede",
+    "image": "../products/barline/24.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir prýanik siropy 1 l PET",
+    "image": "../products/barline/25.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir prýanik siropy 1 l çüýşede",
+    "image": "../products/barline/26.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir siropy 1 l PET MOM resepti",
+    "image": "../products/barline/27.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Injir siropy 1 l PET",
+    "image": "../products/barline/28.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Injir siropy 1 l çüýşede",
+    "image": "../products/barline/29.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irland krem siropy 1.0 PET",
+    "image": "../products/barline/30.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Amaretto siropy 0,375 ml çüýşede",
+    "image": "../products/barline/31.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Amaretto siropy 1 l çüýşede",
+    "image": "../products/barline/32.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Amaretto siropy 1,0 PET",
+    "image": "../products/barline/33.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pyrtykal siropy 1 l PET MOM resepti",
+    "image": "../products/barline/34.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Arahis siropy 1 l PET",
+    "image": "../products/barline/35.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Arahis siropy 0,375 ml çüýşede",
+    "image": "../products/barline/36.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Arahis siropy 1 l çüýşede",
+    "image": "../products/barline/37.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Bubble sakgyç siropy 1 l PET MOM resepti",
+    "image": "../products/barline/38.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "sary banan siropy 1 l PET MOM resepti",
+    "image": "../products/barline/39.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Baileys siropy 1 l PET",
+    "image": "../products/barline/40.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Baileys siropy 1 l çüýşede",
+    "image": "../products/barline/41.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ak şokolad siropy 0,375 ml çüýşede",
+    "image": "../products/barline/42.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Browni siropy 1 l çüýşede",
+    "image": "../products/barline/43.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Browni siropy 1,0 PET",
+    "image": "../products/barline/44.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Wanil siropy 0,375 ml çüýşede",
+    "image": "../products/barline/45.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Wanil siropy 1 l PET",
+    "image": "../products/barline/46.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Wanil siropy 1 l PET MOM resepti",
+    "image": "../products/barline/47.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Wanil siropy 1 l çüýşede",
+    "image": "../products/barline/48.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karnasiýa siropy 0,375 ml çüýşede",
+    "image": "../products/barline/49.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karnasiýa siropy 1 l PET",
+    "image": "../products/barline/50.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karnasiýa siropy 1 l çüýşede",
+    "image": "../products/barline/51.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Armyt siropy 1 l PET MOM resepti",
+    "image": "../products/barline/52.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Jasmin siropy 1 l PET",
+    "image": "../products/barline/53.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir prýanik siropy 0,375 ml çüýşede",
+    "image": "../products/barline/54.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir prýanik siropy 1 l PET",
+    "image": "../products/barline/55.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir prýanik siropy 1 l çüýşede",
+    "image": "../products/barline/56.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Imbir siropy 1 l PET MOM resepti",
+    "image": "../products/barline/57.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Injir siropy 1 l PET",
+    "image": "../products/barline/58.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Injir siropy 1 l çüýşede",
+    "image": "../products/barline/59.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irland krem siropy 1,0 PET",
+    "image": "../products/barline/60.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irland krem siropy 0,375 ml çüýşede",
+    "image": "../products/barline/61.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irland krem siropy 1 l çüýşede",
+    "image": "../products/barline/62.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karamel siropy 1,0 PET",
+    "image": "../products/barline/63.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karamel siropy 0,375 ml çüýşede",
+    "image": "../products/barline/64.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karamel siropy 1 l çüýşede",
+    "image": "../products/barline/65.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karamel siropy 1 l PET MOM resepti",
+    "image": "../products/barline/66.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karamel şor siropy 1,0 PET",
+    "image": "../products/barline/67.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Karamel şor siropy 1 l çüýşede",
+    "image": "../products/barline/68.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kaştan siropy 1 l PET",
+    "image": "../products/barline/69.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kaştan siropy 1 l çüýşede",
+    "image": "../products/barline/70.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Akja siropy 0,375 ml çüýşede",
+    "image": "../products/barline/71.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Akja siropy 1 l PET",
+    "image": "../products/barline/72.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Akja siropy 1 l çüýşede",
+    "image": "../products/barline/73.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Akja PEKAN siropy 1 l PET",
+    "image": "../products/barline/74.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Akja PEKAN siropy 1 l çüýşede",
+    "image": "../products/barline/75.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ýertudana siropy 1 l PET MOM resepti",
+    "image": "../products/barline/76.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kakos siropy 1,0 PET",
+    "image": "../products/barline/77.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kakos siropy 0,375 ml çüýşede",
+    "image": "../products/barline/78.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kakos siropy 1 l PET MOM resepti",
+    "image": "../products/barline/79.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kokos siropy 1 l çüýşede",
+    "image": "../products/barline/80.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Konýak siropy 1 l PET",
+    "image": "../products/barline/81.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Konýak siropy 0,375 ml çüýşede",
+    "image": "../products/barline/82.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Konýak siropy 1 l çüýşede",
+    "image": "../products/barline/83.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Korisa siropy 1 l PET",
+    "image": "../products/barline/84.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Korisa siropy 0,375 ml çüýşede",
+    "image": "../products/barline/85.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Korisa siropy 1 l çüýşede",
+    "image": "../products/barline/86.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Krem Brule siropy 1 l PET",
+    "image": "../products/barline/87.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Krem Brule siropy 1 l çüýşede",
+    "image": "../products/barline/88.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lawanda siropy 0,375 ml çüýşede",
+    "image": "../products/barline/89.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lawanda siropy 1 l çüýşede",
+    "image": "../products/barline/90.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lawanda siropy 1,0 PET",
+    "image": "../products/barline/91.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Latte siropy 1 l PET",
+    "image": "../products/barline/92.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Latte siropy 1 l çüýşede",
+    "image": "../products/barline/93.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Limon siropy 1 l PET",
+    "image": "../products/barline/94.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Limon siropy1 l PET MOM resepti",
+    "image": "../products/barline/95.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Limon siropy 1 l çüýşede",
+    "image": "../products/barline/96.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Limonly pirog siropy 1 l çüýşede",
+    "image": "../products/barline/97.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Limonly pirog siropy 1,0 PET",
+    "image": "../products/barline/98.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Makadamiýa siropy 1 l PET",
+    "image": "../products/barline/99.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Makadamiýa siropy 1 l çüýşede",
+    "image": "../products/barline/100.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Malina siropy 1 l PET MOM resepti",
+    "image": "../products/barline/101.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mango spaýs siropy 1 l çüýşede",
+    "image": "../products/barline/102.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mango spaýs siropy 1,0 PET",
+    "image": "../products/barline/103.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mandarin siropy 1 l PET MOM resepti",
+    "image": "../products/barline/104.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marakuýa siropy 0,375 ml çüýşede",
+    "image": "../products/barline/105.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marakuýa siropy 1 l PET",
+    "image": "../products/barline/106.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marakuýa siropy 1 l PET MOM resepti",
+    "image": "../products/barline/107.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marakuýa siropy 1 l çüýşede",
+    "image": "../products/barline/108.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marzipan siropy 1 l PET",
+    "image": "../products/barline/109.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marzipan siropy 1 l çüýşede",
+    "image": "../products/barline/110.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Bal siropy 1 l PET",
+    "image": "../products/barline/111.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Bal siropy 1 l çüýşede",
+    "image": "../products/barline/112.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mindal siropy 0,375 ml çüýşede",
+    "image": "../products/barline/113.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mindal siropy 1 l PET",
+    "image": "../products/barline/114.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mindal siropy 1 l PET MOM resepti",
+    "image": "../products/barline/115.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mindal siropy 1 l çüýşede",
+    "image": "../products/barline/116.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Narpyz siropy 1 l PET MOM siropy",
+    "image": "../products/barline/117.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Narpyzly şokolad siropy 0,375 ml çüýşede",
+    "image": "../products/barline/118.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kofe toplumy №4: Wanil, Şokolad, Konýak.",
+    "image": "../products/barline/119.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kofe toplumy №5: Klen, Funduk, Karamel.",
+    "image": "../products/barline/120.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kofe toplumy №6: Mendal, Fistaşka, Arahis.",
+    "image": "../products/barline/121.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Kofe toplumy №7: Amaretto, Imbir, Irland kremy.",
+    "image": "../products/barline/122.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mindal koke siropy 1 l PET",
+    "image": "../products/barline/123.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mindal koke siropy 1 l çüýşede",
+    "image": "../products/barline/124.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şokoladly koke siropy 1 l çüýşede",
+    "image": "../products/barline/125.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şokoladly koke siropy 1,0 PET",
+    "image": "../products/barline/126.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ponçik siropy 1 l PET",
+    "image": "../products/barline/127.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ponçik siropy 1 l çüýşede",
+    "image": "../products/barline/128.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Popkorn siropy 1 l PET",
+    "image": "../products/barline/129.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Popkorn siropy 1 l çüýşede",
+    "image": "../products/barline/130.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şeker siropy 1 l çüýşede",
+    "image": "../products/barline/131.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şeker siropy 1,0 PET",
+    "image": "../products/barline/132.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şekerli trostnik siropy 1 l PET",
+    "image": "../products/barline/133.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şekerli trostnik siropy 1 l çüýşede",
+    "image": "../products/barline/134.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Şokolad siropy 1 l çüýşede",
+    "image": "../products/barline/135.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Almaly pirog siropy 1 l çüýşede",
+    "image": "../products/barline/136.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Duzly karamel siropy 1 l PET MOM resepti",
+    "image": "../products/barline/137.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Tiramisu siropy 1 l PET",
+    "image": "../products/barline/138.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Tiramisu siropy 1 l çüýşede",
+    "image": "../products/barline/139.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Topinambur siropy 0,375 ml çüýşede",
+    "image": "../products/barline/140.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Toffi siropy 1 l PET",
+    "image": "../products/barline/141.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Toffi siropy 1 l çüýşede",
+    "image": "../products/barline/142.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Hurma siropy 1 l PET",
+    "image": "../products/barline/143.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Hurma siropy 1 l çüýşede",
+    "image": "../products/barline/144.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fistaşka siropy 0,375 ml çüýşede",
+    "image": "../products/barline/145.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fistaşka siropy 1 l PET MOM resepti",
+    "image": "../products/barline/146.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fistaşka siropy 1 l çüýşede",
+    "image": "../products/barline/147.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fistaşka siropy 1,0 PET",
+    "image": "../products/barline/148.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Funduk siropy 0,375 ml çüýşede",
+    "image": "../products/barline/149.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Funduk siropy 1 l PET",
+    "image": "../products/barline/150.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 750 g",
+    "image": "../products/peykam/1.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 4,5 kg",
+    "image": "../products/peykam/2.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 5 kg",
+    "image": "../products/peykam/3.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 4,2 kg",
+    "image": "../products/peykam/4.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 450 g",
+    "image": "../products/peykam/5.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 180 g",
+    "image": "../products/peykam/6.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 4,5 kg",
+    "image": "../products/peykam/7.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 450 g",
+    "image": "../products/peykam/8.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 750 g",
+    "image": "../products/peykam/9.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 1,5 kg",
+    "image": "../products/peykam/10.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýodlanan iýmit duzy 4,2 kg",
+    "image": "../products/peykam/11.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Uzyn däne tüwi 800 g",
+    "image": "../products/peykam/12.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýylmanyp bölünen nohut 450 g",
+    "image": "../products/peykam/13.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Tüwi 800 g",
+    "image": "../products/peykam/14.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ýylmanyp bölünen nohut 800 g",
+    "image": "../products/peykam/15.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Arpa ýarmasy 800 g",
+    "image": "../products/peykam/16.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Inçe tüwi ýarmasy \"Camolino\" 450 g",
+    "image": "../products/peykam/17.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Inçe tüwi ýarmasy \"Camolino\" 800 g",
+    "image": "../products/peykam/18.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Greçka ýarmasy 800 g",
+    "image": "../products/peykam/19.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Ak noýba 450 g",
+    "image": "../products/peykam/20.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Mäş 800 g",
+    "image": "../products/peykam/21.webp",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Gyzyl noýba 450 g",
+    "image": "../products/peykam/22.webp",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Merjimek 800 g",
+    "image": "../products/peykam/23.webp",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Çörek garyndysy \"Karamel\"",
+    "image": "../products/granum/1.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Çörek garyndysy \"Borodinskaýa\"",
+    "image": "../products/granum/2.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Uniwersal un",
+    "image": "../products/granum/3.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Gyzgyn naharlar üçin",
+    "image": "../products/granum/4.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Çörek bişirmek üçin un",
+    "image": "../products/granum/5.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Blinçik üçin un",
+    "image": "../products/granum/6.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Un \"Sybaga\"",
+    "image": "../products/granum/7.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Uniwersal gowylandyryjy",
+    "image": "../products/granum/8.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Fitnes çörek garyndysy",
+    "image": "../products/granum/9.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Greçkaly un garyndysy",
+    "image": "../products/granum/10.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Gowulandyryjy ROŽ",
+    "image": "../products/granum/11.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Doktor çörek garyndysy",
+    "image": "../products/granum/12.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Çörek garyndysy DECOR №1",
+    "image": "../products/granum/13.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Bütin bugdaý uny",
+    "image": "../products/granum/14.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Pitsa uny",
+    "image": "../products/granum/15.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Un \"Gazagystan\".",
+    "image": "../products/granum/16.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Blinçik üçin un",
+    "image": "../products/granum/17.png",
+    "manufactured": "Granum"
   }
 ]

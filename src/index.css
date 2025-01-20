@@ -37,3 +37,32 @@
 .section {
     scroll-margin-top: 90px;
 }
+
+.active{
+    padding-bottom: 5px;
+    border-bottom: 2px solid #d66c2f;
+}
+
+.bg-color{
+    background-color: #282828;
+}
+
+.title-color{
+    color: #282828;
+}
+
+.text-advantages{
+    color: #8e8e8e;
+}
+
+.advantages-bg{
+    background-color: #dcab41;
+}
+
+.btn-color{
+    background-color: #f04c4c;
+}
+
+.bg-color2{
+    background-color: #d66c2f;
+}

@@ -1,146 +1,952 @@
 [
   {
-    "name": "Marinated products «MFT»",
-    "code": "17471-93",
-    "weight": "Net weight: 0,5 L",
-    "image": "../products/баклажан-с-перцем.jpg",
-    "manufactured": "Manufactured: «Maks Food Technology» Turkmenistan"
+    "name": "Amaretto syrup 0.375 ml in glass",
+    "image": "../products/barline/1.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Natural juices «MFT»",
-    "code": "TS 02241618-01-2017",
-    "weight": "Net weight: 1 L, 0,5 L, 0,25 L",
-    "image": "../products/гранат.jpg",
-    "manufactured": "Manufactured: «Maks Food Technology» Turkmenistan"
+    "name": "Amaretto syrup 1 l in glass",
+    "image": "../products/barline/2.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Crackers «Tizli» with a taste of sour cream and onions",
-    "code": "TS 02241618-01-2017",
-    "weight": "Net weight: 40 g",
-    "image": "../products/Screenshot_4-1.png",
-    "manufactured": "Manufactured: Turkmenistan",
-    "energy": "Energy value: 354.0 Kcal"
+    "name": "Amaretto syrup 1.0 PET",
+    "image": "../products/barline/3.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Crackers «Tizli» with a taste of cheese",
-    "code": "TS 02241618-01-2017",
-    "weight": "Net weight: 40 g",
-    "image": "../products/Screenshot_1.png",
-    "manufactured": "Manufactured: Turkmenistan",
-    "energy": "Energy value: 354.0 Kcal"
+    "name": "Orange syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/4.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Crackers «Tizli» with a taste of salami",
-    "code": "TS 02241618-01-2017",
-    "weight": "Net weight: 40 g",
-    "image": "../products/Screenshot_2.png",
-    "manufactured": "Manufactured: Turkmenistan",
-    "energy": "Energy value: 354.0 Kcal"
+    "name": "Peanut syrup 1 l in PET",
+    "image": "../products/barline/5.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Crackers «Tizli» with tomato and greens taste",
-    "code": "TS 02241618-01-2017",
-    "weight": "Net weight: 40 g",
-    "image": "../products/Screenshot_3-1.png",
-    "manufactured": "Manufactured: Turkmenistan",
-    "energy": "Energy value: 354.0 Kcal"
+    "name": "Peanut syrup 0.375 ml in glass",
+    "image": "../products/barline/6.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Stew «Düýe etinden batyrma»",
-    "code": "TDS-9937-79",
-    "weight": "Net weight: 0,350 kg",
-    "image": "../products/tushenka-1-1.jpg",
-    "manufactured": "Manufactured: OJSC«Merw» Turkmenistan"
+    "name": "Peanut syrup 1 l in glass",
+    "image": "../products/barline/7.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Stew «Ak çorbaly goýun eti»",
-    "code": "TDS-9937-79",
-    "weight": "Net weight: 0,250kg, 0,350kg, 0,550kg",
-    "image": "../products/tushenka-3.jpg",
-    "manufactured": "Manufactured: OJSC«Merw» Turkmenistan"
+    "name": "Bubble Gum syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/8.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Stew «Ak çorbaly sygyr eti»",
-    "code": "TDS-9937-79",
-    "weight": "Net weight: 0,250kg, 0,350kg, 0,550kg",
-    "image": "../products/tushenka-2-1.jpg",
-    "manufactured": "Manufactured: OJSC«Merw» Turkmenistan"
+    "name": "Banana yellow syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/9.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Iodized salt",
-    "code": "Iodized salt",
-    "weight": "Filtration on pure cotton fiber",
-    "image": "../products/CASPI-SALT-POSTER-A3-1.jpg",
-    "manufactured": "Heat treatment 120 C"
+    "name": "Baileys syrup 1 l in PET",
+    "image": "../products/barline/10.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Iodized salt 750 g",
-    "code": "Iodized salt",
-    "weight": "Filtration on pure cotton fiber",
-    "image": "../products/750-гр.jpg",
-    "manufactured": "Heat treatment 120 C"
+    "name": "Baileys syrup 1 l in glass",
+    "image": "../products/barline/11.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Pasta «Granum» 15 kg",
-    "code": "GOST R 52189-2003",
-    "weight": "Grade: Extra",
-    "image": "../products/pasta-granum.jpg",
-    "manufactured": "Packaging: 15 kg, 20 kg."
+    "name": "White chocolate syrup 0.375 ml in glass",
+    "image": "../products/barline/12.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Pasta «Granum»",
-    "code": "GOST R 52189-2003",
-    "weight": "Grade: Extra",
-    "image": "../products/prod1.png",
-    "manufactured": "Packaging: 0.400 kg, 0.900 kg, 2 kg, 5 kg",
-    "expiry": "Expiry date 12 months"
+    "name": "Brownie syrup 1 l in glass",
+    "image": "../products/barline/13.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Flour «Granum»",
-    "code": "ST RK GOST R51865-2010",
-    "weight": "Grade: higher",
-    "image": "../products/prod2.png",
-    "manufactured": "Packaging: 1 kg, 2 kg",
-    "expiry": "Expiry date 12 months"
+    "name": "Brownie syrup 1.0 PET",
+    "image": "../products/barline/14.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Oil «Sunny Gold»",
-    "code": "1 L",
-    "weight": "Net weight: 14.55 kg",
-    "image": "../products/prod3.png",
-    "manufactured": "Pack quantity: 15 pcs",
-    "expiry": "Expiry date 12 months"
+    "name": "Vanilla syrup 0.375 ml in glass",
+    "image": "../products/barline/15.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Milk «Selyanskoe»",
-    "code": "0.95 L",
-    "weight": "Net weight: 11.4 kg",
-    "image": "../products/prod-5.png",
-    "manufactured": "Pack quantity: 12 pcs",
-    "expiry": "Expiry date 270 days at a temperature of 1.25 ° C"
+    "name": "Vanilla syrup 1 l in PET",
+    "image": "../products/barline/16.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Milk «Na zdorov’ye»",
-    "code": "1 L",
-    "weight": "Net weight: 11.4 kg",
-    "image": "../products/prod-6.png",
-    "manufactured": "Pack quantity: 12 pcs",
-    "expiry": "Expiry date 270 days at a temperature of 1.25 ° C"
+    "name": "Vanilla syrup 1 l in PET MOTHER'S RECIPE",
+    "image": "../products/barline/17.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Milk «Bourionka»",
-    "code": "1 L",
-    "weight": "Net weight: 12 kg",
-    "image": "../products/prod-7.png",
-    "manufactured": "Pack quantity: 12 pcs",
-    "expiry": "Expiry date 180 days at a temperature of 1.25 ° C"
+    "name": "Vanilla syrup 1 l in glass",
+    "image": "../products/barline/18.png",
+    "manufactured": "Barline"
   },
   {
-    "name": "Cream «Burionka»",
-    "code": "0.5 L",
-    "weight": "Net weight: 9 kg",
-    "image": "../products/prod-8.png",
-    "manufactured": "Pack quantity: 18 pcs",
-    "expiry": "Expiry date 180 days at a temperature of 1.25 ° C"
+    "name": "Carnation syrup 0.375 ml in glass",
+    "image": "../products/barline/19.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Carnation syrup 1 l in PET",
+    "image": "../products/barline/20.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Carnation syrup 1 l in glass",
+    "image": "../products/barline/21.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pear syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/22.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Jasmine syrup 1 l in PET",
+    "image": "../products/barline/23.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Gingerbread syrup 0.375 ml glass",
+    "image": "../products/barline/24.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Gingerbread syrup 1 l in PET",
+    "image": "../products/barline/25.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Gingerbread syrup 1 l in glass",
+    "image": "../products/barline/26.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ginger syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/27.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fig syrup 1 l in PET",
+    "image": "../products/barline/28.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fig syrup 1 l in glass",
+    "image": "../products/barline/29.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irish Cream Syrup 1.0 PET",
+    "image": "../products/barline/30.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Amaretto syrup 0.375 ml in glass",
+    "image": "../products/barline/31.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Amaretto syrup 1 l in glass",
+    "image": "../products/barline/32.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Amaretto syrup 1.0 PET",
+    "image": "../products/barline/33.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Orange syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/34.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Peanut syrup 1 l in PET",
+    "image": "../products/barline/35.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Peanut syrup 0.375 ml in glass",
+    "image": "../products/barline/36.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Peanut syrup 1 l in glass",
+    "image": "../products/barline/37.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Bubble Gum syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/38.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Banana yellow syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/39.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Baileys syrup 1 l in PET",
+    "image": "../products/barline/40.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Baileys syrup 1 l in glass",
+    "image": "../products/barline/41.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "White chocolate syrup 0.375 ml in glass",
+    "image": "../products/barline/42.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Brownie syrup 1 l in glass",
+    "image": "../products/barline/43.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Brownie syrup 1.0 PET",
+    "image": "../products/barline/44.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Vanilla syrup 0.375 ml in glass",
+    "image": "../products/barline/45.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Vanilla syrup 1 l in PET",
+    "image": "../products/barline/46.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Vanilla syrup 1 l in PET MOTHER'S RECIPE",
+    "image": "../products/barline/47.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Vanilla syrup 1 l in glass",
+    "image": "../products/barline/48.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Carnation syrup 0.375 ml in glass",
+    "image": "../products/barline/49.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Carnation syrup 1 l in PET",
+    "image": "../products/barline/50.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Carnation syrup 1 l in glass",
+    "image": "../products/barline/51.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pear syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/52.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Jasmine syrup 1 l in PET",
+    "image": "../products/barline/53.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Gingerbread syrup 0.375 ml glass",
+    "image": "../products/barline/54.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Gingerbread syrup 1 l in PET",
+    "image": "../products/barline/55.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Gingerbread syrup 1 l in glass",
+    "image": "../products/barline/56.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Ginger syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/57.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fig syrup 1 l in PET",
+    "image": "../products/barline/58.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Fig syrup 1 l in glass",
+    "image": "../products/barline/59.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irish Cream Syrup 1.0 PET",
+    "image": "../products/barline/60.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irish Cream Syrup 0.375 ml in glass",
+    "image": "../products/barline/61.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Irish Cream Syrup 1L in glass",
+    "image": "../products/barline/62.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Caramel syrup 1.0 PET",
+    "image": "../products/barline/63.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Caramel syrup 0.375 ml in glass",
+    "image": "../products/barline/64.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Caramel syrup 1 l in glass",
+    "image": "../products/barline/65.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Caramel syrup 1l in PET MOM'S RECIPE",
+    "image": "../products/barline/66.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Caramel SALTED syrup 1.0 PET",
+    "image": "../products/barline/67.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "SALTED caramel syrup 1 l in glass",
+    "image": "../products/barline/68.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Chestnut syrup 1 l in PET",
+    "image": "../products/barline/69.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Chestnut syrup 1 l in glass",
+    "image": "../products/barline/70.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Maple syrup 0.375 ml in glass",
+    "image": "../products/barline/71.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Maple syrup 1 l in PET",
+    "image": "../products/barline/72.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Maple syrup 1 l in glass",
+    "image": "../products/barline/73.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Maple PECAN syrup 1 l in PET",
+    "image": "../products/barline/74.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Maple PECAN syrup 1 l in glass",
+    "image": "../products/barline/75.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Strawberry syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/76.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coconut syrup 1.0 PET",
+    "image": "../products/barline/77.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coconut syrup 0.375 ml in glass",
+    "image": "../products/barline/78.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coconut syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/79.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coconut syrup 1 l in glass",
+    "image": "../products/barline/80.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cognac syrup 1 l in PET",
+    "image": "../products/barline/81.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cognac syrup 0.375 ml in glass",
+    "image": "../products/barline/82.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cognac syrup 1 l in glass",
+    "image": "../products/barline/83.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cinnamon syrup 1 l in PET",
+    "image": "../products/barline/84.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cinnamon syrup 0.375 ml in glass",
+    "image": "../products/barline/85.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cinnamon syrup 1 l in glass",
+    "image": "../products/barline/86.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Creme Brulee syrup 1 l in PET",
+    "image": "../products/barline/87.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Creme brulee syrup 1 l in glass",
+    "image": "../products/barline/88.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lavender syrup 0.375 ml in glass",
+    "image": "../products/barline/89.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lavender syrup 1 l in glass",
+    "image": "../products/barline/90.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lavender syrup 1.0 PET",
+    "image": "../products/barline/91.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Latte syrup 1 l in PET",
+    "image": "../products/barline/92.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Latte syrup 1 l in glass",
+    "image": "../products/barline/93.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lemongrass syrup 1 l in PET",
+    "image": "../products/barline/94.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lemon syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/95.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lemon syrup 1 l in glass",
+    "image": "../products/barline/96.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lemon syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/97.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Lemon PIE syrup 1.0 PET",
+    "image": "../products/barline/98.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Macadamia syrup 1 l in PET",
+    "image": "../products/barline/99.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Macadamia syrup 1 l in glass",
+    "image": "../products/barline/100.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Raspberry syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/101.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mango SPICE syrup 1 l in glass",
+    "image": "../products/barline/102.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mango SPICE syrup 1.0 PET",
+    "image": "../products/barline/103.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mandarin syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/104.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Passion fruit syrup 0.375 ml in a glass",
+    "image": "../products/barline/105.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Passion fruit syrup 1 l in PET",
+    "image": "../products/barline/106.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Passion fruit syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/107.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Passion fruit syrup 1 l in glass",
+    "image": "../products/barline/108.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marzipan syrup 1 l in PET",
+    "image": "../products/barline/109.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Marzipan syrup 1 l in glass",
+    "image": "../products/barline/110.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Honey syrup 1 l in PET",
+    "image": "../products/barline/111.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Honey syrup 1 l in glass",
+    "image": "../products/barline/112.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Almond syrup 0.375 ml in glass",
+    "image": "../products/barline/113.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Almond syrup 1 l in PET",
+    "image": "../products/barline/114.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Almond syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/115.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Almond syrup 1 l in glass",
+    "image": "../products/barline/116.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mint syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/117.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Mint chocolate syrup 0.375 ml in glass",
+    "image": "../products/barline/118.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coffee Set No. 4: Vanilla, Chocolate, Cognac.",
+    "image": "../products/barline/119.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coffee Set No. 5: Maple, Hazelnut, Caramel.",
+    "image": "../products/barline/120.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coffee Set No. 6: Almond, Pistachio, Peanut.",
+    "image": "../products/barline/121.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Coffee Set No. 7: Amaretto, Ginger, Irish Cream.",
+    "image": "../products/barline/122.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cookies ALMOND syrup 1 l in PET",
+    "image": "../products/barline/123.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cookies ALMOND syrup 1 l in glass",
+    "image": "../products/barline/124.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cookies CHOCOLATE syrup 1 l in glass",
+    "image": "../products/barline/125.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Cookies CHOCOLATE syrup 1.0 PET",
+    "image": "../products/barline/126.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Donut syrup 1 l in PET",
+    "image": "../products/barline/127.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Donut syrup 1 l in glass",
+    "image": "../products/barline/128.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Popcorn syrup 1 l in PET",
+    "image": "../products/barline/129.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Popcorn syrup 1 l in glass",
+    "image": "../products/barline/130.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Sugar syrup 1 l in glass",
+    "image": "../products/barline/131.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Sugar syrup 1.0 PET",
+    "image": "../products/barline/132.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "SUGAR CANE syrup 1 l in PET",
+    "image": "../products/barline/133.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "SUGAR CANE syrup 1 l in glass",
+    "image": "../products/barline/134.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Chocolate syrup 1 l in glass",
+    "image": "../products/barline/135.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Apple Pie Syrup 1L in glass",
+    "image": "../products/barline/136.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Salted caramel syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/137.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Tiramisu syrup 1 l in PET",
+    "image": "../products/barline/138.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Tiramisu syrup 1 l in glass",
+    "image": "../products/barline/139.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Jerusalem artichoke syrup 0.375 ml in glass",
+    "image": "../products/barline/140.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Toffee syrup 1 l in PET",
+    "image": "../products/barline/141.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Toffee syrup 1 l in glass",
+    "image": "../products/barline/142.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Dates syrup 1 l in PET",
+    "image": "../products/barline/143.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Dates syrup 1 l in glass",
+    "image": "../products/barline/144.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pistachio syrup 0.375 ml in glass",
+    "image": "../products/barline/145.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pistachio syrup 1 l in PET MOM'S RECIPE",
+    "image": "../products/barline/146.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pistachio syrup 1 l in glass",
+    "image": "../products/barline/147.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Pistachio syrup 1.0 PET",
+    "image": "../products/barline/148.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Hazelnut syrup 0.375 ml in glass",
+    "image": "../products/barline/149.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Hazelnut syrup 1 l in PET",
+    "image": "../products/barline/150.png",
+    "manufactured": "Barline"
+  },
+  {
+    "name": "Iodized table salt 750 gr",
+    "image": "../products/peykam/1.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 4,5 kg",
+    "image": "../products/peykam/2.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 5 kg",
+    "image": "../products/peykam/3.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 4,2 kg",
+    "image": "../products/peykam/4.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 450 gr",
+    "image": "../products/peykam/5.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 180 gr",
+    "image": "../products/peykam/6.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 4,5 kg",
+    "image": "../products/peykam/7.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 450 gr",
+    "image": "../products/peykam/8.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 750 gr",
+    "image": "../products/peykam/9.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 1,5 kg",
+    "image": "../products/peykam/10.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Iodized table salt 4,2 kg",
+    "image": "../products/peykam/11.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Long grain rice 800 gr",
+    "image": "../products/peykam/12.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Polished peas 450 gr",
+    "image": "../products/peykam/13.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Rice 800 gr",
+    "image": "../products/peykam/14.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Polished peas 800 gr",
+    "image": "../products/peykam/15.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Pearl barley 800 gr",
+    "image": "../products/peykam/16.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Fine rice flakes \"Camolino\" 450 gr",
+    "image": "../products/peykam/17.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Fine rice flakes \"Camolino\" 800 gr",
+    "image": "../products/peykam/18.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Buckwheat groats 800 gr",
+    "image": "../products/peykam/19.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "White beans 450 gr",
+    "image": "../products/peykam/20.jpg",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Mash 800 gr",
+    "image": "../products/peykam/21.webp",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Red beans 450 gr",
+    "image": "../products/peykam/22.webp",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Lentils 800 gr",
+    "image": "../products/peykam/23.webp",
+    "manufactured": "Peýkam"
+  },
+  {
+    "name": "Bakery mix \"Caramel\"",
+    "image": "../products/granum/1.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Bakery mix \"Borodinskaya\"",
+    "image": "../products/granum/2.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "All-purpose flour",
+    "image": "../products/granum/3.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "For hot dishes",
+    "image": "../products/granum/4.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Baking flour",
+    "image": "../products/granum/5.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Pancake flour",
+    "image": "../products/granum/6.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Flour \"Sybaga\"",
+    "image": "../products/granum/7.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Improver Universal",
+    "image": "../products/granum/8.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Mix Bakery Fitness",
+    "image": "../products/granum/9.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Bakery Buckwheat Mix",
+    "image": "../products/granum/10.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Improver RYE",
+    "image": "../products/granum/11.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "DOCTOR'S baking mix",
+    "image": "../products/granum/12.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Bakery mix DECOR №1",
+    "image": "../products/granum/13.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Whole grain wheat flour",
+    "image": "../products/granum/14.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Pizza flour",
+    "image": "../products/granum/15.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Flour \"Kazakhstan\".",
+    "image": "../products/granum/16.png",
+    "manufactured": "Granum"
+  },
+  {
+    "name": "Flour for pancakes",
+    "image": "../products/granum/17.png",
+    "manufactured": "Granum"
   }
 ]
